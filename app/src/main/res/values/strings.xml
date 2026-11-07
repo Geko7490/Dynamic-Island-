@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dynamic Island</string>
+
+    <string name="main_title">Dynamic Island</string>
+    <string name="main_subtitle">Aşama 1 — ada kapsülü</string>
+    <string name="main_hint">Adaya dokununca büyür, 4 saniye sonra kendiliğinden küçülür. Uzun basınca uygulama açılır.</string>
+
+    <string name="status_permission_ok">Overlay izni: verildi</string>
+    <string name="status_permission_missing">Overlay izni: verilmedi</string>
+    <string name="status_running">Ada: çalışıyor</string>
+    <string name="status_stopped">Ada: durdu</string>
+
+    <string name="btn_grant">Overlay iznini ver</string>
+    <string name="btn_start">Adayı başlat</string>
+    <string name="btn_stop">Adayı durdur</string>
+
+    <string name="notif_channel_name">Dynamic Island servisi</string>
+    <string name="notif_title">Dynamic Island çalışıyor</string>
+    <string name="notif_text">Uygulamayı açmak için dokun</string>
+    <string name="notif_action_stop">Durdur</string>
+
+    <string name="island_subtitle">Dynamic Island • Aşama 1</string>
+    <string name="a11y_island">Dynamic Island</string>
+</resources>
